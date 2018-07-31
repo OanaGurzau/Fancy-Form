@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.9.2"
+    "hoek": "^4.2.1",
+    "node-sass": "^4.9.2",
+    "npm": "^6.2.0"
   }
 }

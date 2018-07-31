@@ -95,7 +95,7 @@ function validate(){
         inputPass();
     }
 }
-
+ 
 //field input fail
 function inputFail() {
     formBox.className = 'error';
